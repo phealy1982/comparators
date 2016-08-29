@@ -9,7 +9,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Created by peterhealy on 29/08/2016.
  */
-public class SortingTests {
+public class SortingTest {
 
 
     @Test public void maps_and_sorting() throws Exception {
